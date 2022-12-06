@@ -10,6 +10,10 @@ Parametric scientific computing ?
 
 Funz eases this "functional" wrapping of your simulation.
 
+# Demo
+
+* Python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Funz/funz.github.io/blob/master/docs/_docs/Funz_py_NewtonCooling.ipynb)
+* R: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Funz/funz.github.io/blob/master/docs/_docs/Funz_R_NewtonCooling.ipynb)
 
 # Examples
 
